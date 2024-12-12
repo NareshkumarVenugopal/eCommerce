@@ -1,14 +1,13 @@
 //
-//  iKartTests.swift
+//  CartManageerTests.swift
 //  iKartTests
 //
-//  Created by Jasmin Infotech Private Limited on 27/11/24.
+//  Created by Jasmin Infotech Private Limited on 29/11/24.
 //
 
 import XCTest
-@testable import iKart
 
-final class iKartTests: XCTestCase {
+final class CartManageerTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
